@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+.row{
+    margin: 0;
+}
+.description-header{
+    user-select:all;
+}
